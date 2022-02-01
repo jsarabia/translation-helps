@@ -15,7 +15,7 @@
     "deep-freeze": "0.0.1",
     "js-yaml-parser": "^1.0.0",
     "jszip": "^3.7.1",
-    "local-storage": "^1.4.2",
+    "local-storage": "^2.0.0",
     "localforage": "^1.7.3",
     "mui-datatables": "2.0.0-beta.56",
     "query-string": "^6.2.0",
